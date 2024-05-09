@@ -2,7 +2,7 @@
 This repo was created to host the third series of the hackme series (vulnhub is no longer maintained). You can find the first two vulnerable boxes on vulnhub -> https://www.vulnhub.com/series/hackme,221/. 
 
 # Description:
-'hackme3' is a fun and interactive box to learn web vulnerabilities (e.g., IDOR, XSS, Obfuscation, Injection - i.e., SQL, Command etc). It depicts modern day web vulnerabilities, and challenges (with appropriate controls and defences) aimed to deter against adversary. The goal is to have fun learning during the process!  
+'hackme3' is a fun and interactive box to learn web vulnerabilities (e.g., IDOR, XSS, Obfuscation, Source Code Review, Injection - i.e., SQL, Command etc). It depicts modern day web vulnerabilities, and challenges (with appropriate controls and defences) aimed to deter against adversary. The goal is to have fun learning during the process!  
 
 'hackme3' uses DHCP and in the possible event that the mysqld shuts down on its own (very rare cases), attempt to force restart the machine and it should be working fine subsequently.
 
